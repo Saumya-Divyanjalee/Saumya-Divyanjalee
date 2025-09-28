@@ -28,12 +28,12 @@
 
 <hr>
 
-## 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐒𝐭𝐚𝐜𝐤💻
+## 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐒𝐭𝐚𝐜𝐤
 
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
-### Programming Languages 👨‍💻
+### 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 
 <p align='center'>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaFX-0078D7?style=for-the-badge">&nbsp;&nbsp;
@@ -45,7 +45,7 @@
 
 <br>
 
-### Frameworks & Libraries 📦
+### 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 & 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 
 <p align='center'>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge">&nbsp;&nbsp;
@@ -54,7 +54,7 @@
 
 <br>
 
-### Design 🎨
+### 𝐃𝐞𝐬𝐢𝐠𝐧 
 <p align='center'>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
@@ -62,7 +62,7 @@
 
 <br>
 
-### IDEs / Editors 👨‍💻
+### 𝐈𝐃𝐄𝐬 / 𝐄𝐝𝐢𝐭𝐨𝐫𝐬 
 <p align='center'>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
@@ -73,12 +73,14 @@
 
 <br>
 
-### Version Control 🔧
+### 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 
 <p align='center'>
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </p>
+
+ 
 
 
 
