@@ -80,6 +80,21 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </p>
 
+
+ 
+<br>
+<p align='center'>
+<img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="121" height="220" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+</p>
+<br>
+<p align='center'>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+
+
+
+
  
 
 
