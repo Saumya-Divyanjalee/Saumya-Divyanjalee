@@ -1,4 +1,4 @@
-<h1>🌍𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝑮𝒊𝑻𝑯𝒖𝒃✨𝒘𝒉𝒆𝒓𝒆 𝒄𝒐𝒅𝒆 𝒎𝒆𝒆𝒕𝒔 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚🌈</h1>
+<h1>𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝑮𝒊𝑻𝑯𝒖𝒃✨𝒘𝒉𝒆𝒓𝒆 𝒄𝒐𝒅𝒆 𝒎𝒆𝒆𝒕𝒔 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚🌈</h1>
 
 <p align="center">
 <!-- Animated typing text in pink color -->
@@ -77,7 +77,7 @@
 <p align='center'>
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+ 
 </p>
 
 
