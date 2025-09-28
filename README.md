@@ -13,7 +13,7 @@
 
  <hr>
 
-<h2 align="center">👩‍💻 About Me</h2>
+<h2 align="center">👩‍💻𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h2>
 <p>
 💡 <b>Passionate</b> about coding, software engineering, and turning ideas into reality.<br>
 🎓 Studying <b>Software Engineering & Computer Science</b> at the Institute of Software Engineering (IJSE).<br>
@@ -27,5 +27,59 @@
 </p>
 
 <hr>
+
+## 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐒𝐭𝐚𝐜𝐤💻
+
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
+### Programming Languages 👨‍💻
+<p align='center'>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaFX-0078D7?style=for-the-badge">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+
+<br>
+
+### Frameworks & Libraries 📦
+<p align='center'>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JPA-FF6F61?style=for-the-badge">
+</p>
+
+<br>
+
+### Design 🎨
+<p align='center'>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
+</p>
+
+<br>
+
+### IDEs / Editors 👨‍💻
+<p align='center'>
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Apache%20NetBeans-009639?style=for-the-badge&logo=apache-netbeans&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/DataGrip-0A0A0A?style=for-the-badge&logo=datagrip&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</p>
+
+<br>
+
+### Version Control 🔧
+<p align='center'>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+</p>
+
+
 
 
