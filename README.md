@@ -22,7 +22,7 @@
 🎨 Love to combine code with <b>UI design</b>, and enjoy <b>creative writing</b> for projects and ideas.<br>
 💬 Open to <b>collaboration</b>, volunteering, or fun tech discussions.<br>
 ✉️ Reach me at: <b>saumyadivyanjalee529@gmail.com</b>.<br>
-🌐 Find me on: <a href="https://www.youtube.com">YouTube</a> | <a href="https://www.tiktok.com">TikTok</a> | <a href="https://www.linkedin.com">LinkedIn</a>.<br>
+🌐 Find me on: <a href="https://www.youtube.com/@saumyadivyanjalee">YouTube</a> | <a href="https://www.linkedin.com/in/saumya-divyanjalee-1a2608268/">LinkedIn</a>.<br>
 🚀 <i>“Coding is my tool, UI design is my canvas, and learning never stops.”</i>
 </p>
 
