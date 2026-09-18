@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub ✨ where code meets creativity 🌈</h1>
+ <h1 align="center">Welcome to my GitHub ✨ where code meets creativity 🌈</h1>
 
 <!-- Portfolio — top and center -->
 <p align="center">
@@ -39,7 +39,7 @@
 🌱 Continuously learning across the full stack — backend, frontend, mobile, and AI/ML.<br>
 🎨 Love to combine code with <b>UI design</b>, and enjoy <b>creative writing</b> for projects and ideas.<br>
 💬 Open to <b>collaboration</b>, volunteering, or fun tech discussions.<br>
-✉️ Reach me at: <b>saumyadivyanjalee529@gmail.com</b>.<br>
+✉️ Reach me at: <b>saumyadivs@gmail.com</b>.<br>
 🌐 Find me on: <a href="https://www.youtube.com/@saumyadivyanjalee">YouTube</a> | <a href="https://www.linkedin.com/in/saumya-divyanjalee-1a2608268/">LinkedIn</a>.<br>
 🚀 <i>"Coding is my tool, UI design is my canvas, and learning never stops."</i>
 </p>
@@ -146,17 +146,12 @@
 
 ## 📊 GitHub Activity
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Saumya-Divyanjalee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saumya-Divyanjalee&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumya-Divyanjalee&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+</p> -->
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saumya-Divyanjalee&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://raw.githubusercontent.com/Saumya-Divyanjalee/Saumya-Divyanjalee/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </p>
 
 <hr>
